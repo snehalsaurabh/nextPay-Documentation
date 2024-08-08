@@ -51,8 +51,8 @@ def anon_aadhaar():
         Developers can utilize these tools to provide their users with a privacy-first identity verification process that is secure, reliable, and decentralized.
     """)
 
-    st.image("Assets/anon-aadhar/onchain.png", caption = "Onchain", use_column_width=True)
-    st.image("Assets/anon-aadhar/offchain.png", caption = "Offchain", use_column_width=True)
+    st.image("Assets/anon-aadhar/onchain.png", caption = "Offchain", use_column_width=True)
+    st.image("Assets/anon-aadhar/offchain.png", caption = "Onchain", use_column_width=True)
     st.subheader("🔗 Verifying Proofs")
     st.write("""
         Anon Aadhaar proofs can be verified both off-chain and on-chain, depending on your application's needs:
@@ -452,7 +452,7 @@ def get_involved():
     st.write("We're excited to see your contributions! Thank you for being a part of the nextPay community. 🙌")
 
     if st.button("Visit GitHub Repository"):
-        st.markdown('<a href="https://github.com/nextPay/nextPay" target="_blank">nextPay GitHub Repository</a>', unsafe_allow_html=True)
+        st.markdown('<a href="https://github.com/harshit340/NextPay" target="_blank">nextPay GitHub Repository</a>', unsafe_allow_html=True)
 
 def main():
     pages = {
