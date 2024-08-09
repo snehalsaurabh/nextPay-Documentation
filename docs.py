@@ -97,7 +97,7 @@ def anon_aadhaar():
 
 def cross_blockchain_payments():
     st.title("🚀 Cross-Blockchain Payment Gateway")
-    st.image("https://nextpay.com/assets/cross-chain-payments.png", caption="🔗 Seamless Ethereum Transfers Across Blockchains")
+    st.image("Assets/cross-blockchain/Screenshot 2024-08-09 072952.png", caption="🔗 Seamless Ethereum Transfers Across Blockchains")
 
     st.subheader("🌐 Revolutionizing Cross-Chain Transactions")
     st.write("""
@@ -124,7 +124,8 @@ def cross_blockchain_payments():
         - **💰 Cost-Effective Transfers:** nextPay optimizes transaction fees, ensuring that your funds go further. Why pay more when you don’t have to?
         - **🔊 Real-Time Audio Notifications:** Our Soundbox feature delivers instant audio confirmations for every transaction, so you’re always in the loop. Stay informed, stay in control.
     """)
-
+    
+    st.image("Assets/cross-blockchain/Screenshot 2024-08-09 073022.png", caption="🔗 Seamless Ethereum Transfers Across Blockchains")
     st.subheader("🤝 Integration with DeFi Apps")
     st.write("""
         nextPay is designed to fit seamlessly into the broader DeFi ecosystem. Whether you’re a developer or an end-user, our platform’s cross-chain capabilities can enhance your interaction with decentralized finance applications.
@@ -181,7 +182,7 @@ def cross_blockchain_payments():
 
 def soundbox():
     st.title("🔊 Soundbox - Real-Time Blockchain Transaction Notifications")
-    st.image("https://nextpay.com/assets/soundbox.png", caption="🎵 Stay Informed with Soundbox")
+    st.image("Assets/soundbox/Screenshot 2024-08-09 073134.png", caption="🎵 Waiting For Transaction")
 
     st.subheader("🎶 What is Soundbox?")
     st.write("""
@@ -201,7 +202,8 @@ def soundbox():
         - **Personalized Monitoring:** Select specific blockchains to monitor, ensuring that you stay updated on the most relevant transactions. 🕵️
         - **Seamless Integration:** Soundbox is fully integrated into nextPay, providing a smooth and intuitive user experience for managing cross-chain transactions. 🚀
     """)
-
+    
+    st.image("Assets/soundbox/Screenshot 2024-08-09 073810.png", caption="🎵 Trasaction Complete")
     st.subheader("📈 Potential Use Cases")
     st.write("""
         **Soundbox** is ideal for various scenarios, including:
