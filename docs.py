@@ -429,7 +429,6 @@ def faqs():
 
 def get_involved():
     st.title("🌟 Get Involved with nextPay")
-    st.image("https://nextpay.com/assets/contribute.png", caption="Contribute to nextPay")
 
     st.subheader("🤝 Contribute to nextPay")
     st.write("We welcome contributions from the community to help shape the future of nextPay. Here’s how you can get involved and make an impact:")
